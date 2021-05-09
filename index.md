@@ -1,14 +1,11 @@
----
-layout: default
----
-
 # CodeLikeArun
 
 <br>
 
-{% include 02-image.md %}
+![Image of CodeLikeArun](https://avatars.githubusercontent.com/u/83836329)
 
 <br>
 
-[Twitter](http://twitter.com/be_like_arun)
+## [Twitter](http://twitter.com/be_like_arun)
+## [Github](http://github.com/codelikearun)
 
