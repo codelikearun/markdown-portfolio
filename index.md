@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+# CodeLikeArun
 
 <br>
 
@@ -10,5 +10,5 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
+[Twitter](http://twitter.com/be_like_arun)
 
