@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*This is supposed to be an italice sentence*
+<br>
+**And this is a bold sentence**
+<br>
+### And finally this is a __bold__ + _italic_ sentence in h5.
